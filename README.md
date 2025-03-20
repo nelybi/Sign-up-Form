@@ -14,6 +14,10 @@ Il met en pratique la structuration HTML, la mise en forme CSS, et l’utilisati
 	•	Bouton d’envoi avec couleur harmonisée
 	•	Pas de responsive design pour le moment (non demandé dans le projet)
 
+ 🖼️ Assets utilisés
+	•	Image de fond : [Ciel étoilé by Halie West : [([url](https://unsplash.com/fr/photos/le-ciel-nocturne-est-rempli-detoiles-et-darbres-UWni0vqQotc))]
+	•	Logo ODIN : fourni dans le projet The Odin Project
+
 
 🎯 Objectifs d’apprentissage
 	•	Structurer un projet HTML/CSS proprement
