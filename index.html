@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Formulaire Présentoir</title>
+  </head>
+  <body>
+    <aside>
+      <div class="logo">
+        <img class="logo-img" src="/assets/odin-lined.png" alt="Logo Odin" />
+        <h1>Odin</h1>
+      </div>
+    </aside>
+    <div class="right">
+      <section class="text-header">
+        <h3>
+          Ceci n'est pas un réel service en ligne! Vous avez besoin de quelque
+          comme ça dans votre vie pour vous aidez à réaliser vos plus profonds
+          rêves. <br />Inscrivez vous <span class="italic">maintenant</span>
+          pour commencer.
+        </h3>
+
+        <h3>Vous <span class="italic">savez</span> que vous le voulez</h3>
+      </section>
+
+      <form id="form">
+        <div class="form-row">
+          <div class="form-group">
+            <label>First Name</label>
+            <input type="text" placeholder="Thor" />
+          </div>
+          <div class="form-group">
+            <label>Last Name</label>
+            <input type="text" placeholder="Odinson" />
+          </div>
+        </div>
+
+        <div class="form-row">
+          <div class="form-group">
+            <label>Email</label>
+            <input type="email" placeholder="example@asgard.com" />
+          </div>
+          <div class="form-group">
+            <label>Phone Number</label>
+            <input type="tel" placeholder="+33 ..." />
+          </div>
+        </div>
+
+        <div class="form-row">
+          <div class="form-group">
+            <label>Password</label>
+            <input type="password" required />
+          </div>
+          <div class="form-group">
+            <label>Confirm Password</label>
+            <input type="password" required />
+          </div>
+        </div>
+      </form>
+      <button form="form" type="submit" class="submit-btn">
+        Create Account
+      </button>
+      <p>Already an account ? <a href="#">Log in</a></p>
+    </div>
+  </body>
+</html>
