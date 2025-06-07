@@ -28,3 +28,7 @@ Il met en pratique la structuration HTML, la mise en forme CSS, et l’utilisati
 🤝 Remerciements
 	•	Merci à The Odin Project pour le projet
 	•	Merci à Unsplash pour les images libres de droit
+
+ Capture du projet :
+ ![image](https://github.com/user-attachments/assets/28df6193-1333-48f8-804c-9c7b0b5fe847)
+
